@@ -66,7 +66,7 @@
         <header>
             <h2>Чим я займаюсь</h2>
         </header>
-        <p>Нічим я ж Лев!)</p>
+        <p>Всім</p>
     </div>
     <a href="#two" class="button style2 down anchored"></a>
 </section>
@@ -77,7 +77,7 @@
         <header>
             <h2>Про мене</h2>
         </header>
-        <p>Я Лев!</p>
+        <p>Бла бла бла</p>
     </div>
     <a href="#work" class="button style2 down anchored"></a>
 </section>
